@@ -5,6 +5,3 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    volumes:
-      # - "/home/kozlovjr/devops-for-programmers-project-74/app:/app"
-      - "./app:/app"
