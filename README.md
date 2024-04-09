@@ -1,2 +1,3 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/nikitakozlovjr/devops-for-programmers-project-74/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/nikitakozlovjr/devops-for-programmers-project-74/actions)
+[![Test ans Push](https://github.com/nikitakozlovjr/pack_fastify_js/actions/workflows/push.yml/badge.svg)](https://github.com/nikitakozlovjr/pack_fastify_js/actions/workflows/push.yml)
